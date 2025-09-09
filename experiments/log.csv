@@ -1,0 +1,3 @@
+timestamp,run_id,model,n_gens,temperature,max_tokens,dataset,years,problems,gpu,server_port,git_commit,image_hash,status,results_dir,notes
+2025-09-08 23:58:25,deepseek-r1-1p5b_week00,deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B,8,0.6,16000,AIME,1983-2024,1-15,"2,3","8002,8003",0899342,/bin/sh: 1: docker: not found,running,experiment_archive,baseline relaunch after logprobs fix
+2025-09-09 00:04:07,week01_deepseek-r1-1p5b_baseline,deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B,8,0.6,16000,AIME,1983-2024,1-15,multi,"8000,8002,8003",0899342,/bin/sh: 1: docker: not found,running,experiment_archive,baseline relaunch after logprobs fix

@@ -1,15 +1,8 @@
-# Big artifacts, data, and caches
+# heavy / local
 experiment_archive/
-results/
 hf_cache/
 data/
-*.jsonl
-*.pkl
-*.log
-
-# Python temporary files
-__pycache__/
+reports/**/summary.md
+**/.ipynb_checkpoints/
 *.pyc
-
-# Docker image files
-*.tar.gz
+__pycache__/
