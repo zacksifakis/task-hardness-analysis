@@ -2,6 +2,7 @@
 experiment_archive/
 hf_cache/
 data/
+results/self_classification
 reports/**/summary.md
 **/.ipynb_checkpoints/
 *.pyc
